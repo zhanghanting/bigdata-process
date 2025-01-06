@@ -1,0 +1,11 @@
+GOOF,12.3
+DD,144
+Alibaba,122
+Alibaba,125
+Alibaba,128
+Tencent,77
+Xiaomi,45
+Fdf,55
+Fdf,50
+Fdf,58
+FFF,90
